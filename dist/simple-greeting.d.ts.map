@@ -1,0 +1,1 @@
+{"version":3,"file":"simple-greeting.d.ts","sourceRoot":"","sources":["../src/simple-greeting.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,UAAU,EAAE,MAAM,KAAK,CAAC;AAG5C,qBACa,cAAe,SAAQ,UAAU;IAC5C,OAAgB,MAAM,0BAA0B;IAGhD,IAAI,SAAc;IAET,MAAM;CAGhB"}
